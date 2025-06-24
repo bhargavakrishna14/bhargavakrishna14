@@ -93,7 +93,7 @@ Adapted the Transformer model fortime-series analysis of motion sensor data, uti
 
 Languages: Java, Python, SQL, HTML/CSS, JavaScript
 
-Frameworks: Spring Boot, Spring MVC, Spring Security, Hibernate, Rest APIs
+Frameworks: Spring Core, Spring Boot, Spring Data JPA, RESTful APIs, Spring Security, Spring Cloud
 
 Databases: MySQL, PostgreSQL
 
