@@ -66,6 +66,12 @@
 
 ### 🚀 Projects:
 
+####  E-COMMERCE MICROSERVICES BACKEND (April 2025 – May 2025)
+
+Developed RESTful microservices using Spring Boot and Spring Cloud (Eureka, Gateway, Config).
+Used Kafka for async communication, PostgreSQL/MongoDB for storage, and Docker Compose for deployment
+Integrated Zipkin for distributed tracing and MailDev fortesting email notifications.
+
 ####  Bank Security Application (Nov 2024 – Dec 2024)
 
 Developed a secure banking system with userregistration, account management, card services, and investments.
